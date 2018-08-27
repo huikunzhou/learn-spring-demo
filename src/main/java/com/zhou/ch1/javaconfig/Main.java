@@ -4,7 +4,6 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 public class Main {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 
 		// 使用AnnotationConfigApplicationContext可以实现基于Java的配置类加载Spring的应用上下文。
